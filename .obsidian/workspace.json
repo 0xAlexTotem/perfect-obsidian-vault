@@ -1,20 +1,34 @@
 {
   "main": {
-    "id": "5cb5ad8ac736cfb3",
+    "id": "1426bba374ad396d",
     "type": "split",
     "children": [
       {
-        "id": "6c3e063c5df3c5b2",
+        "id": "afbd2e6a0cc33f95",
         "type": "tabs",
         "children": [
           {
-            "id": "ed84cc1b85def431",
+            "id": "f8249ce87fc789ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "TODO"
             }
           }
         ]
@@ -23,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "839b5f8250bc9132",
+    "id": "7fcc5237286b4989",
     "type": "split",
     "children": [
       {
-        "id": "d097534bb4e55818",
+        "id": "5ae97830d307c60f",
         "type": "tabs",
         "children": [
           {
-            "id": "bc0b8cef048dc7f1",
+            "id": "c6b1036539bc3391",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -40,11 +54,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
-            "id": "0a9924f8e49a58d6",
+            "id": "719c2832c7254cc2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,17 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Ricerca"
-            }
-          },
-          {
-            "id": "4640bcf9acff3d76",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Segnalibri"
+              "title": "Search"
             }
           }
         ]
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "589fde700a016ca5",
+    "id": "d9b75e1af07abb3e",
     "type": "split",
     "children": [
       {
-        "id": "50d7525e733a47ca",
+        "id": "610d7278e5d41002",
         "type": "tabs",
         "children": [
           {
-            "id": "6fe24d1920b9f737",
+            "id": "f1cf89d8534159e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,40 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Backlinks for TODO"
             }
           },
           {
-            "id": "3c78afea097c28e3",
+            "id": "6ad7f62c97c77023",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Outgoing links from TODO"
             }
           },
           {
-            "id": "b83d043a35bf07a6",
+            "id": "cdeaa8e07bb18889",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
+            }
+          },
+          {
+            "id": "fcf7aa6f44663a67",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -127,31 +148,17 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etichette"
+              "title": "Tags"
             }
           },
           {
-            "id": "c326a55a1fa85ead",
+            "id": "f5b60bdd7cf37ad8",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Struttura"
-            }
-          },
-          {
-            "id": "cb1fb2da78b8416c",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
+              "type": "git-view",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -159,14 +166,44 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "audio-reco
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f8249ce87fc789ca",
+  "lastOpenFiles": [
+    "README.md",
+    "TODO.md",
+    "Tutorial.md",
+    "Untitled.md",
+    "_templates/default.md",
+    "ads.md",
+    "asdrubale.md",
+    "djhsfv.md",
+    "Asdrunbale.md",
+    "Tempaltyer.md",
+    "ABDC.md",
+    "_templates/grdsfdsfsz.md",
+    "templater.md",
+    "preview.md",
+    "_templates",
+    "_canvas/Untitled.canvas",
+    "27-04-2025.md",
+    "_canvas",
+    "_attachments",
+    "_canvas",
+    "Senza nome",
+    "_templates"
+  ]
+}

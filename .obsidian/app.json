@@ -1,19 +1,14 @@
 {
-  "defaultViewMode": "preview",
-  "readableLineLength": true,
-  "strictLineBreaks": false,
-  "showLineNumber": false,
-  "showInlineTitle": true,
-  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
   "rightToLeft": false,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./",
-  "foldHeading": true,
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "2",
-    "downscalePercent": 76
-  }
+  "showLineNumber": false,
+  "foldHeading": false,
+  "propertiesInDocument": "visible",
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": false,
+  "attachmentFolderPath": "_attachments",
+  "uriCallbacks": true,
+  "showInlineTitle": false
 }
