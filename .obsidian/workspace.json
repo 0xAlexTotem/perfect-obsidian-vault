@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "README"
             }
           }
         ]
@@ -183,9 +183,11 @@
   },
   "active": "f8249ce87fc789ca",
   "lastOpenFiles": [
-    "README.md",
     "TODO.md",
+    "README.md",
     "Tutorial.md",
+    "_attachments/example.md",
+    "_canvas/example.canvas",
     "Untitled.md",
     "_templates/default.md",
     "ads.md",
@@ -198,7 +200,6 @@
     "templater.md",
     "preview.md",
     "_templates",
-    "_canvas/Untitled.canvas",
     "27-04-2025.md",
     "_canvas",
     "_attachments",
