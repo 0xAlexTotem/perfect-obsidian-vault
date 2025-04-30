@@ -6,15 +6,14 @@ This repository is a fully setup focusing a high productivity, second brain crea
 # TO DO
 
 1. Make H1 centered
-
-# Setup
+2. H-generic higher font size
+3. Do a tutorial section and README
+4. List of *Hotkeys*
 
 ## ***Settings***
 
 *Appearance:* Accent color - font - ribbon - CSS snippets
-List of *Hotkeys*
 
 *Kanban*
 *Minimal Theme Settings*
-*Omnisearch*
 *Style Settings*
