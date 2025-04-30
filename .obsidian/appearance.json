@@ -3,5 +3,10 @@
   "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSize": 16,
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "academic-style"
+  ]
 }
