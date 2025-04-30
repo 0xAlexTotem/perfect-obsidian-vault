@@ -3,7 +3,7 @@
 This repository is a fully setup focusing a high productivity, second brain creation and a clear file system.
 
 ---
-# TO DO
+## TO DO
 
 1. H-generic higher font size
 2. Fix color **bold** and *italic*
