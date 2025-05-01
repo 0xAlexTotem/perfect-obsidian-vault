@@ -9,12 +9,6 @@ parent: "[[]]"
 
 # {{title}}
 
-## Abstract
-*A short summary of the note's key points.*
 
-## Introduction
-*Introduce the topic and provide background information.*
-
-## Main Content
 
 ## Resources

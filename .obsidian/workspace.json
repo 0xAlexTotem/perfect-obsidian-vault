@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41b803db49e2ee5f",
+        "id": "dc7cfaf38d41c6ae",
         "type": "tabs",
         "children": [
           {
-            "id": "f77098a449245f43",
+            "id": "0dd6969a2c1084dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_books/_book-list.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_book-list"
+              "title": "README"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_books/_book-list.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _book-list"
+              "title": "Outline of README"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,18 +181,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c6b1036539bc3391",
+  "active": "f5b60bdd7cf37ad8",
   "lastOpenFiles": [
-    "_random-things",
     "README.md",
+    "_templates/academic-note.md",
+    "_templates/default-note.md",
+    "prova.md",
+    "dfs.md",
     "_books/_book-list.md",
+    "_random-things",
     "_books",
     "_attachments/void.md",
     "_canvas/void.canvas",
-    "_templates/default-note.md",
     "TODO.md",
     "Tutorial.md",
-    "Untitled.md",
     "ads.md",
     "asdrubale.md",
     "djhsfv.md",
