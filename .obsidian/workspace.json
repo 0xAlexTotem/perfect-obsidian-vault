@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_books/_book-list.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "_book-list"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "_books/_book-list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of _book-list"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 354.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +181,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f77098a449245f43",
+  "active": "c6b1036539bc3391",
   "lastOpenFiles": [
-    "_templates/default-note.md",
+    "_random-things",
     "README.md",
+    "_books/_book-list.md",
+    "_books",
+    "_attachments/void.md",
+    "_canvas/void.canvas",
+    "_templates/default-note.md",
     "TODO.md",
     "Tutorial.md",
-    "_attachments/example.md",
-    "_canvas/example.canvas",
     "Untitled.md",
     "ads.md",
     "asdrubale.md",
